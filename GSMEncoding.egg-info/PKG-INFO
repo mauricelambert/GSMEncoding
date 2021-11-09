@@ -1,14 +1,14 @@
 Metadata-Version: 2.1
 Name: GSMEncoding
-Version: 0.0.1
-Summary:  This file implements encode/decode functions for GSM (SMS). 
+Version: 0.0.2
+Summary:  This package implements encode/decode functions for GSM (SMS). 
 Home-page: https://github.com/mauricelambert/GSMEncoding
 Author: Maurice Lambert
 Author-email: mauricelambert434@gmail.com
 Maintainer: Maurice Lambert
 Maintainer-email: mauricelambert434@gmail.com
 License: GPL-3.0 License
-Project-URL: Documentation, https://mauricelambert.github.io/info/python/security/GSMEncoding.html
+Project-URL: Documentation, https://mauricelambert.github.io/info/python/code/GSMEncoding.html
 Keywords: GSM,SMS,Encoding
 Platform: Windows
 Platform: Linux
@@ -31,7 +31,7 @@ License-File: LICENSE.txt
 
 ## Description
 
-This file implements encode/decode functions for GSM (Global System for Mobile Communications - SMS - 2G).
+This package implements encode/decode functions for GSM (Global System for Mobile Communications - SMS - 2G).
 
 ## Requirements
 

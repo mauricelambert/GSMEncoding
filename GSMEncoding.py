@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 ###################
-#    This file implements encode/decode functions for GSM (SMS)
+#    This package implements encode/decode functions for GSM (SMS)
 #    Copyright (C) 2021  Maurice Lambert
 
 #    This program is free software: you can redistribute it and/or modify
@@ -20,7 +20,7 @@
 ###################
 
 """
-This file implements encode/decode functions for GSM (SMS).
+This package implements encode/decode functions for GSM (SMS).
 
 >>> gsm7bitencode("Unit Test")
 '55779A0EA296E774'
@@ -32,13 +32,13 @@ b'Unit Test\\x00'
 ~# python3 -m doctest -v gsm.py
 """
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 __author__ = "Maurice Lambert"
 __author_email__ = "mauricelambert434@gmail.com"
 __maintainer__ = "Maurice Lambert"
 __maintainer_email__ = "mauricelambert434@gmail.com"
 __description__ = """
-This file implements encode/decode functions for GSM (SMS).
+This package implements encode/decode functions for GSM (SMS).
 """
 license = "GPL-3.0 License"
 __url__ = "https://github.com/mauricelambert/GSMEncoding"

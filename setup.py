@@ -15,7 +15,7 @@ setup(
     long_description_content_type="text/markdown",
     url=package.__url__,
     project_urls = {
-        "Documentation": "https://mauricelambert.github.io/info/python/security/GSMEncoding.html",
+        "Documentation": "https://mauricelambert.github.io/info/python/code/GSMEncoding.html",
     },
     classifiers = [
         "Programming Language :: Python",

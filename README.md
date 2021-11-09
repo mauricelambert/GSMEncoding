@@ -4,7 +4,7 @@
 
 ## Description
 
-This file implements encode/decode functions for GSM (Global System for Mobile Communications - SMS - 2G).
+This package implements encode/decode functions for GSM (Global System for Mobile Communications - SMS - 2G).
 
 ## Requirements
 
