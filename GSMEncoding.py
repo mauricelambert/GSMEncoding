@@ -32,7 +32,7 @@ b'Unit Test\\x00'
 ~# python3 -m doctest -v gsm.py
 """
 
-__version__ = "0.0.2"
+__version__ = "0.0.1"
 __author__ = "Maurice Lambert"
 __author_email__ = "mauricelambert434@gmail.com"
 __maintainer__ = "Maurice Lambert"

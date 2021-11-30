@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: GSMEncoding
-Version: 0.0.2
+Version: 0.0.1
 Summary:  This package implements encode/decode functions for GSM (SMS). 
 Home-page: https://github.com/mauricelambert/GSMEncoding
 Author: Maurice Lambert
